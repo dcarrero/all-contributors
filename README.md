@@ -197,6 +197,7 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
       <td align="center"><a href="habet.dev"><img src="https://avatars.githubusercontent.com/u/82916197?v=4?s=100" width="100px;" alt="Abe Hanoka"/><br /><sub><b>Abe Hanoka</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=abe-101" title="Documentation">📖</a></td>
       <td align="center"><a href="roshanjossey.github.io"><img src="https://avatars.githubusercontent.com/u/8488446?v=4?s=100" width="100px;" alt="Roshan Jossy"/><br /><sub><b>Roshan Jossy</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=Roshanjossey" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=Roshanjossey" title="Code">💻</a></td>
       <td align="center"><a href="https://www.sglavoie.com/"><img src="https://avatars.githubusercontent.com/u/32682903?v=4?s=100" width="100px;" alt="Sébastien Lavoie"/><br /><sub><b>Sébastien Lavoie</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/issues?q=author%3Asglavoie" title="Bug reports">🐛</a></td>
+ <td align="center"><a href="https://www.stackscale.com/"><img src="https://avatars.githubusercontent.com/u/195768?v=4?s=100" width="100px;" alt="David Carrero [Stackscale.com]"/><br /><sub><b>David Carrero</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/issues?q=author=dcarrero" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
